@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://la-pratica-ciudadania-italiana.netlify.app/sitemap.xml

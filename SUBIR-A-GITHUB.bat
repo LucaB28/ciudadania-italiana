@@ -11,7 +11,7 @@ echo.
 
 echo [1/3] Guardando los cambios...
 git add -A
-git commit -m "Actualizacion del sitio" -m "Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>"
+git commit -m "Actualizacion del sitio"
 echo.
 
 echo [2/3] Trayendo lo que haya en GitHub...

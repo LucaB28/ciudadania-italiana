@@ -3,6 +3,19 @@ public/
 compartir.html
 la-pratica-uruguay.html
 
+# Copias sueltas del sitio generado en la raiz.
+# Estuvieron versionadas por error y Netlify publicaba esas, no las nuevas.
+/*.html
+/app.js
+/datos.js
+/styles.css
+/fuentes.css
+/fuentes/
+/og.png
+/robots.txt
+/sitemap.xml
+/_headers
+
 # Dominio local de pruebas (en Netlify sale de la variable URL)
 src/dominio.txt
 
