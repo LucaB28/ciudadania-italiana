@@ -31,8 +31,8 @@ const SITIO = (() => {
 })();
 /* Fecha de última verificación de los datos legales.
    Actualizala cuando revises que la información sigue vigente. */
-const FECHA_ISO = "2026-08-05";
-const FECHA = "05/08/2026";
+const FECHA_ISO = "2026-08-06";
+const FECHA = "06/08/2026";
 
 const { paginas } = await import("./src/paginas.mjs");
 const { paginasNuevas } = await import("./src/paginas-nuevas.mjs");

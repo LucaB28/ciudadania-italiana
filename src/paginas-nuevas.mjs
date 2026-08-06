@@ -240,6 +240,87 @@ mientras su hijo —el que sigue tu línea— todavía era menor, y el consulado
   },
 
   {
+    slug: "ley-11-2026",
+    nav: null,
+    title: "Ley 11/2026: la ciudadanía italiana se centraliza en Roma",
+    description: "Desde el 19/02/2026 los pedidos migran a un Servicio Central en Roma: plazo de 36 meses, envío de originales por correo y transición hasta 2029. Qué cambia desde Uruguay.",
+    ogTitle: "La Ley 11/2026 y la centralización en Roma",
+    tipo: "articulo",
+    h1: "La Ley 11/2026: el trámite se muda a Roma",
+    content: `
+<p class="entrada">El 19 de febrero de 2026 entró en vigor la Ley 11/2026, promulgada el 19 de enero. No toca
+<strong>quién</strong> tiene derecho —eso lo sigue definiendo la <a href="ley-74-2025.html">Ley 74/2025</a>— sino
+<strong>por dónde pasa el pedido, cómo se envía y cuánto tiene la administración para contestar</strong>.
+Para quien tramita desde Uruguay es el cambio práctico más grande desde la reforma de 2025.</p>
+
+<section class="modulo" aria-labelledby="cambia-titolo">
+  <div class="modulo-intestazione">
+    <span class="etichetta">QUÉ CAMBIA</span>
+    <h2 id="cambia-titolo">Cuatro cambios concretos</h2>
+  </div>
+  <ol class="passi">
+    <li class="passo">
+      <h3>Un Servicio Central en Roma</h3>
+      <p>El análisis de los pedidos de reconocimiento deja de nacer en la oficina consular y se concentra en un
+      servicio central con sede en la capital italiana. El objetivo declarado es unificar criterios, que hoy
+      varían de un consulado a otro.</p>
+    </li>
+    <li class="passo">
+      <h3>El plazo de análisis pasa a 36 meses</h3>
+      <p>El plazo legal para cerrar el análisis administrativo subió de 24 a <strong>36 meses</strong>.
+      En la práctica, el plazo que sostenía los reclamos judiciales por inercia se estiró: si pensabas demandar
+      por demora, la cuenta cambió. Hablalo con un abogado antes de dar nada por hecho.</p>
+    </li>
+    <li class="passo">
+      <h3>Los originales viajan por correo</h3>
+      <p>El pedido se manda <strong>por correo internacional, en papel</strong>, con la documentación original y
+      el comprobante de pago de las tasas. Después del envío físico, el contacto sigue solo por email.
+      Eso abre un riesgo nuevo y real: que se extravíen en tránsito partidas originales ya apostilladas y
+      traducidas. Escaneá todo antes de despachar.</p>
+    </li>
+    <li class="passo">
+      <h3>Transición hasta 2029</h3>
+      <p>No es todo de golpe. Durante la transición la Embajada en Montevideo <strong>sigue recibiendo y
+      analizando</strong> pedidos, pero con un límite anual de cantidad atado a los expedientes que cerró el
+      año anterior, con un piso de 100. Desde el <strong>1.º de enero de 2029</strong>, todo pedido de mayor de
+      edad residente en el exterior pasa exclusivamente por el servicio central de Roma. Los
+      <strong>menores de edad</strong> siguen atendiéndose en la Embajada.</p>
+    </li>
+  </ol>
+</section>
+
+<section class="modulo" aria-labelledby="significa-titolo">
+  <div class="modulo-intestazione">
+    <span class="etichetta">QUÉ SIGNIFICA PARA VOS</span>
+    <h2 id="significa-titolo">Lectura honesta, sin alarma y sin optimismo</h2>
+  </div>
+  <p>Quien defiende el cambio dice que centralizar termina con la lotería de criterios entre consulados y con
+  colas que dependen de dónde vivís. Quien lo critica señala lo obvio: el plazo aumentó, mandar originales por
+  correo internacional agrega un punto de falla que antes no existía, y una sola oficina va a recibir la demanda
+  del mundo entero.</p>
+  <p>Lo que sí se puede afirmar sin adivinar: <strong>la etapa documental no cambió</strong>. Las partidas de la
+  DGREC, la rectificación cuando los nombres no coinciden, el certificado de la Corte Electoral, la apostilla en
+  Cancillería y la traducción al italiano siguen igual. Quien arma el expediente ahora no pierde nada: gana
+  tiempo, sea cual sea la puerta por la que entre.</p>
+  <p>El límite anual de la transición sí tiene un efecto directo acá: si la Embajada solo puede recibir tantos
+  pedidos como los que cerró el año anterior, <a href="turnos-prenotami.html">el turno en Prenot@Mi</a> se vuelve
+  más escaso, no menos. Y a partir de 2029 el turno para mayores directamente desaparece: se reemplaza por el
+  envío postal a Roma.</p>
+  <p>Empezá por tu <a href="mi-expediente.html">expediente</a>, seguí la
+  <a href="documentos.html">guía de documentos</a> y mirá <a href="costos.html">cuánto cuesta</a> antes de gastar.
+  Si tu cola ya era larga antes de esto, la comparación que importa está en <a href="vias.html">las tres vías</a>.</p>
+  <div class="avviso">
+    <p class="avviso-capo">CONFIRMÁ ANTES DE DESPACHAR</p>
+    <p>La implementación es gradual y los procedimientos operativos pueden cambiar. Al día de hoy la Embajada de
+    Italia en Montevideo no publicó instrucciones propias sobre esta ley. Antes de mandar cualquier documento
+    original por correo, confirmá la dirección, la lista de piezas y la forma de pago en la página oficial de la
+    Embajada. Nunca despaches un original sin haber escaneado todo primero.</p>
+  </div>
+</section>
+`
+  },
+
+  {
     slug: "vias",
     nav: null,
     title: "Vía consular, judicial o residencia en Italia: cuál te conviene",

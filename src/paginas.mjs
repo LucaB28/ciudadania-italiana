@@ -136,6 +136,10 @@ cambió exactamente, quién sigue teniendo derecho, quién quedó afuera y por q
   </div>
   <p>Si tenés padre, madre, abuelo o abuela nacido en Italia: sí, sin dudarlo. Estás dentro de la ley nueva y lo único
   que te separa del reconocimiento es juntar los papeles y conseguir turno.</p>
+  <p>Eso sí, ojo con los plazos: en febrero de 2026 entró en vigor la <a href="ley-11-2026.html">Ley 11/2026</a>,
+  que no cambia quién tiene derecho pero sí muda el trámite a un servicio central en Roma, sube el plazo legal de
+  análisis a 36 meses y, desde 2029, reemplaza el turno consular por un envío postal. Elegible no es lo mismo
+  que rápido.</p>
   <p>Si tu vínculo es de bisabuelo para atrás: la vía consular hoy está cerrada, pero
   <strong>juntar los documentos igual tiene sentido</strong>. Las partidas uruguayas no vencen para el archivo personal,
   el certificado de la Corte Electoral tampoco cambia, y si el Tribunal de Justicia de la UE tumba la retroactividad
@@ -279,6 +283,14 @@ consular por solicitante. Estos son los valores de referencia para que hagas tu 
 <p class="entrada">Conseguir el turno es, para mucha gente, más difícil que juntar los documentos. No hay trucos mágicos
 ni intermediarios con acceso privilegiado: hay un horario, una preparación previa y, si nada funciona, una vía legal.</p>
 
+<div class="avviso">
+  <p class="avviso-capo">ESTO TIENE FECHA DE VENCIMIENTO</p>
+  <p>Todo lo que sigue vale mientras la Embajada siga recibiendo pedidos, o sea <strong>hasta 2028</strong>.
+  La <a href="ley-11-2026.html">Ley 11/2026</a> le puso un cupo anual a lo que cada oficina puede recibir y, desde
+  el <strong class="mono">01/01/2029</strong>, el turno para mayores de edad desaparece: el pedido se manda por
+  correo a Roma. Los menores se siguen atendiendo en la Embajada.</p>
+</div>
+
 <section class="modulo" aria-labelledby="cuando-titolo">
   <div class="modulo-intestazione">
     <span class="etichetta">EL HORARIO</span>
@@ -331,6 +343,11 @@ ni intermediarios con acceso privilegiado: hay un horario, una preparación prev
   <p>Cuando un consulado no da citas en un plazo razonable, existe la posibilidad de reclamar ante los tribunales
   italianos para que se fije el turno o se resuelva el reconocimiento por vía judicial. Se hace con abogado en Italia,
   sin viajar, y las capturas que guardaste son parte del expediente.</p>
+  <p>Un dato que cambió y que conviene tener antes de contratar a nadie: la
+  <a href="ley-11-2026.html">Ley 11/2026</a> subió el plazo legal de la administración de 24 a
+  <strong>36 meses</strong>. Ese plazo es justamente el que sostiene los reclamos por inercia, así que ahora hay
+  que esperar más antes de poder invocarlo. Que un estudio te diga que «ya se puede demandar» no lo vuelve cierto:
+  pedile que te muestre la cuenta.</p>
   <p>No es un atajo ni es gratis: implica honorarios y tiempos judiciales. Pero para quien lleva años sin poder
   reservar, suele ser la única salida real.</p>
   <div class="avviso">
