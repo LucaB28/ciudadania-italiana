@@ -1,0 +1,16 @@
+# Lo que genera el build: no se versiona, se reconstruye
+public/
+compartir.html
+la-pratica-uruguay.html
+
+# Dominio local de pruebas (en Netlify sale de la variable URL)
+src/dominio.txt
+
+# Herramientas internas de diseño
+.impeccable/
+
+# Sistema
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

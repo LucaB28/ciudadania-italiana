@@ -1,0 +1,50 @@
+{
+  "verdictos": {
+    "regimen": {
+      "cls": "timbro-lista",
+      "txt": "RÉGIMEN ANTERIOR",
+      "capo": "Tu caso se rige por las reglas viejas.",
+      "detalle": "Las solicitudes presentadas (o con turno agendado y documentación) antes del 27/03/2025 a las 23:59 hora de Roma se rigen por las reglas viejas: sin límite de generaciones, así que no te afecta el corte a hijos y nietos. Seguí juntando los documentos de tu línea completa en el expediente. Si tu trámite estaba a nombre de otra persona de la familia y no del tuyo, ojo: esto vale para cada solicitante por separado."
+    },
+    "padre": {
+      "cls": "timbro-lista",
+      "txt": "ELEGIBLE — VÍA CONSULAR",
+      "capo": "Con padre o madre nacido en Italia, entrás en la ley nueva.",
+      "detalle": "Sos hijo o hija de italiano: primera generación, y el reconocimiento sigue disponible. Un punto a verificar: que ese padre o madre no se hubiera hecho ciudadano uruguayo antes de que vos nacieras. La ley exige que quien te transmite la ciudadanía haya tenido solo la italiana en ese momento, y eso se prueba con el certificado de la Corte Electoral. Armá el expediente y pedí turno por Prenot@Mi."
+    },
+    "abuelo": {
+      "cls": "timbro-lista",
+      "txt": "ELEGIBLE — VÍA CONSULAR",
+      "capo": "Con abuelo o abuela nacido en Italia, entrás en la ley nueva.",
+      "detalle": "Sos nieto o nieta de italiano: segunda generación, y el reconocimiento sigue disponible bajo la Ley 74/2025. Punto crítico: ni tu abuelo ni tu padre o madre pueden haberse hecho ciudadanos uruguayos antes del nacimiento del hijo que sigue la cadena. La ley exige que quien transmite haya tenido solo la ciudadanía italiana en ese momento, y eso lo prueba el certificado de la Corte Electoral. Armá el expediente completo."
+    },
+    "residencia": {
+      "cls": "timbro-obtenida",
+      "txt": "ELEGIBLE — POR RESIDENCIA",
+      "capo": "Entrás por la vía de residencia del progenitor.",
+      "detalle": "La ley nueva te reconoce por esta puerta: tu padre o madre ya era ciudadano italiano y vivió empadronado en Italia dos años seguidos antes de que nacieras. Además del expediente habitual vas a necesitar el certificado histórico de residencia (certificato storico di residenza) que emite el comune donde vivió, que es lo que prueba esos dos años."
+    },
+    "judicial": {
+      "cls": "timbro-obtenida",
+      "txt": "VÍA JUDICIAL — EN DISPUTA",
+      "capo": "Tu caso hoy se pelea en los tribunales, no en el consulado.",
+      "detalle": "Las líneas con una mujer que tuvo hijos antes de 1948 siempre fueron judiciales, y la tercera generación en adelante quedó fuera de la vía consular con la Ley 74/2025. Ojo: el 23/07/2026 la Corte Constitucional suspendió su fallo y elevó al Tribunal de Justicia de la UE la retroactividad del art. 3-bis (ordenanza 147/2026); si el TJUE falla en contra de la ley, quienes nacieron antes de la reforma podrían recuperar el derecho. Consultá un estudio especializado antes de gastar en documentos."
+    },
+    "nohoy": {
+      "cls": "timbro-rosso",
+      "txt": "NO ELEGIBLE HOY",
+      "capo": "Con la ley vigente, tu línea no califica para la vía consular.",
+      "detalle": "La Ley 74/2025 limitó el reconocimiento a dos generaciones. Pero la última palabra no está dicha: el 23/07/2026 la Corte Constitucional elevó al Tribunal de Justicia de la UE la retroactividad del art. 3-bis (ordenanza 147/2026); si el TJUE la declara incompatible con el derecho europeo, las cláusulas que excluyen a nacidos antes del 28/03/2025 podrían caer. Guardá este expediente: si eso pasa, ya vas a tener todo pronto. También podés evaluar la vía judicial con un abogado."
+    }
+  },
+  "novedades": [
+    { "fecha": "2026-07-26", "label": "26/07/2026", "texto": "Sentencia 24045/2026 de la Casación en Secciones Unidas: se terminó el «minor issue». Un menor nacido en el exterior que tuvo doble ciudadanía desde el nacimiento no pierde la italiana aunque su padre o madre se haya naturalizado extranjero mientras él era menor. Como en Uruguay se es uruguayo por nacer acá, alcanza a muchísimos expedientes que estaban trabados." },
+    { "fecha": "2026-07-23", "label": "23/07/2026", "texto": "Ordenanza 147/2026: la Corte Constitucional suspende su fallo y eleva al Tribunal de Justicia de la UE la retroactividad del art. 3-bis. Si el TJUE la declara incompatible con el derecho europeo, las cláusulas que excluyen a nacidos antes del 28/03/2025 podrían caer. Resolución pendiente." },
+    { "fecha": "2026-03-12", "label": "12/03/2026", "texto": "La Corte Constitucional italiana rechaza los planteos contra el Decreto-Ley 36/2025: en parte infundados, en parte inadmisibles. La ley sigue vigente." },
+    { "fecha": "2025-07-31", "label": "07/2025", "texto": "Sentencia 142/2025: la Corte declara inadmisibles los planteos contra el régimen anterior de transmisión sin límite de generaciones." },
+    { "fecha": "2025-05-24", "label": "24/05/2025", "texto": "El decreto se convierte en la Ley 74/2025: reconocimiento automático limitado a dos generaciones (padre/madre o abuelo/a nacido en Italia), o progenitor con 2 años de residencia legal en Italia antes de tu nacimiento." },
+    { "fecha": "2025-03-28", "label": "28/03/2025", "texto": "Entra en vigor el Decreto-Ley 36/2025 («decreto Tajani»). Corte: solicitudes presentadas o turnos con documentación antes del 27/03/2025 a las 23:59 hora de Roma mantienen el régimen anterior." },
+    { "fecha": null, "label": "VIGENTE", "texto": "Tasa consular: €600 por solicitud, en efectivo o débito VISA/Mastercard, al presentar en la Embajada en Montevideo." },
+    { "fecha": null, "label": "VIGENTE", "texto": "Turnos por Prenot@Mi: se liberan fechas los lunes y miércoles a la medianoche de Italia. Requisito: residencia mínima de 6 meses en la circunscripción consular." }
+  ]
+}

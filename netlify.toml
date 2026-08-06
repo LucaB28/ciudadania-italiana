@@ -1,0 +1,9 @@
+# Netlify construye el sitio solo en cada push a GitHub.
+# Ya no hace falta arrastrar carpetas a mano.
+
+[build]
+  command = "node build.mjs"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "20"
